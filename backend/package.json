@@ -10,7 +10,7 @@
   "keywords": [
     "prueba"
   ],
-  "author": "Jose Ponce",
+  "author": "Pablo Saucedo",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
